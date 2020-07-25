@@ -1,16 +1,16 @@
 # RC-TramiteDNI-Nacimiento-API
 Tramite DNI y Nacimiento
 
-#-----------------------------------POSTs-------------------------------------
-*|Endpoints|
+# -----------------------------------POSTs-------------------------------------
+* |Endpoints|
 
-*https://localhost:44353/Api/Nacimiento					
-*https://localhost:44353/Api/NuevoEjemplar				
-*https://localhost:44353/Api/Extranjero	
+* https://localhost:44353/Api/Nacimiento					
+* https://localhost:44353/Api/NuevoEjemplar				
+* https://localhost:44353/Api/Extranjero	
 
 *https://localhost:44353/Api/RecienNacido
 
------------------------------------GETs--------------------------------------
+# -----------------------------------GETs--------------------------------------
 	*En todos los casos se puede buscar por id excepto el NroDNI*
 |Endpoints|				
 https://localhost:44353/Api/Nacimiento/ListaNacimientos 		
@@ -22,7 +22,7 @@ https://localhost:44353/Api/TramiteDNI/ListaTramites
 https://localhost:44353/Api/TramiteDNI/NroDNI 	
 https://localhost:44353/Api/TramiteDNI/NroDNIextranjeroNroDNIextranjero  
 
------------------------------------PUTs--------------------------------------
+# -----------------------------------PUTs--------------------------------------
 |Endpoints|					
 https://localhost:44353/Api/Nacimiento/id			
 https://localhost:44353/Api/NuevoEjemplar/id		
