@@ -2,13 +2,13 @@
 Tramite DNI y Nacimiento
 
 #-----------------------------------POSTs-------------------------------------
-|Endpoints|
+*|Endpoints|
 
-https://localhost:44353/Api/Nacimiento					
-https://localhost:44353/Api/NuevoEjemplar				
-https://localhost:44353/Api/Extranjero	
+*https://localhost:44353/Api/Nacimiento					
+*https://localhost:44353/Api/NuevoEjemplar				
+*https://localhost:44353/Api/Extranjero	
 
-https://localhost:44353/Api/RecienNacido
+*https://localhost:44353/Api/RecienNacido
 
 -----------------------------------GETs--------------------------------------
 	*En todos los casos se puede buscar por id excepto el NroDNI*
