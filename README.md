@@ -3,12 +3,11 @@ Tramite DNI y Nacimiento
 
 #-----------------------------------POSTs-------------------------------------
 |Endpoints|
-(tramite DNI)
+
 https://localhost:44353/Api/Nacimiento					
 https://localhost:44353/Api/NuevoEjemplar				
 https://localhost:44353/Api/Extranjero	
 
-(Tramite Nacimiento)
 https://localhost:44353/Api/RecienNacido
 
 -----------------------------------GETs--------------------------------------
@@ -20,8 +19,8 @@ https://localhost:44353/Api/Extranjero/ListaExtranjeros
 https://localhost:44353/Api/TramiteDNI/ListaTramites 		
 
 |Solicitar un numero DNI|
-https://localhost:44353/Api/TramiteDNI/NroDNI 	(Argentinos)
-https://localhost:44353/Api/TramiteDNI/NroDNIextranjeroNroDNIextranjero   (Extranjeros)
+https://localhost:44353/Api/TramiteDNI/NroDNI 	
+https://localhost:44353/Api/TramiteDNI/NroDNIextranjeroNroDNIextranjero  
 
 -----------------------------------PUTs--------------------------------------
 |Endpoints|					
